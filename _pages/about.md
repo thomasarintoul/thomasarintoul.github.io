@@ -1,7 +1,8 @@
 ---
 permalink: /
 title: "Home"
-excerpt: ""
+
+[//]: # (excerpt: "")
 author_profile: true
 redirect_from:
 - /home
