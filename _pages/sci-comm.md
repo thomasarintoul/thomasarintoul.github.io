@@ -39,20 +39,14 @@ In 2024, during my PhD, I started providing outreach talks on my research and my
 ## YouTube
 
 
-[//]: # (<div style="display: flex; justify-content: space-between; margin-bottom: 20px;">)
+<div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
 
-[//]: # (    <iframe width="560" height="158" src="https://www.youtube.com/embed/05HOYh6lAzY?si=ccxY28hnp9JVfOiD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>)
-
-[//]: # ()
-[//]: # (    <iframe width="560" height="315" src="https://www.youtube.com/embed/pzRavrNlgQs?si=v7QRroeHxoyR249Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>)
-
-[//]: # (</div>)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/05HOYh6lAzY?si=ccxY28hnp9JVfOiD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="float: right; margin-left: 20px;"></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pzRavrNlgQs?si=v7QRroeHxoyR249Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="float: right;"></iframe>
+    <iframe width="560" height="158" src="https://www.youtube.com/embed/05HOYh6lAzY?si=ccxY28hnp9JVfOiD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/pzRavrNlgQs?si=v7QRroeHxoyR249Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</div>
 
 In June 2020, I started uploading videos to YouTube and thus, my eponymously named channel, [Thomas Rintoul](https://youtube.com/ThomasRintoul) was born. While YouTube can be a great source of funny cat videos, it's also one of the best tools today for effective, wide-reaching science communication.
 
