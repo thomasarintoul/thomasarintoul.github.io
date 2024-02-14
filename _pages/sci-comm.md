@@ -38,25 +38,9 @@ In 2024, during my PhD, I started providing outreach talks on my research and my
 
 ## YouTube
 
-<div>  
-<div  style="float: right">
-<iframe
-    src="https://youtu.be/05HOYh6lAzY"
-    height="405"
-    width="720"
-    allowfullscreen>
-</iframe>
-</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/05HOYh6lAzY?si=ccxY28hnp9JVfOiD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<div>  
-<div  style="float: right">
-<iframe
-    src="https://youtu.be/pzRavrNlgQs"
-    height="405"
-    width="720"
-    allowfullscreen>
-</iframe>
-</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pzRavrNlgQs?si=v7QRroeHxoyR249Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 In June 2020, I started uploading videos to YouTube and thus, my eponymously named channel, [Thomas Rintoul](https://youtube.com/ThomasRintoul) was born. While YouTube can be a great source of funny cat videos, it's also one of the best tools today for effective, wide-reaching science communication.
@@ -92,5 +76,3 @@ I currently stream 3 times per week in a typical week. I currently have 2 main t
     <li> Pomodoro Co-working Streams - I really enjoy these streams - partially because they really help my productivity, but also because of how they help me fulfill my goal in streaming. These streams are based on the pomodoro study method where one works without distraction for a period of time (typically 25 or 50 minutes) before taking a strict break period of 5 or 10 minutes. On stream, we have work sessions where I don't speak to the audience. I share my screen and a webcam feed during this time. Once the work session has elapsed, there is a break period where I speak with the audience about what I've been working on and allow the audience to ask questions about my work and what the day-to-day life of a PhD Student is like. </li>
     <li> Video Game Streams with informal Science Communication - These are the most informal streams I do. I typically stream video games once per week. Often, the game I play is related to space, physics or astronomy - common examples include Kerbal Space Program, Space Engineers or Stellaris. This is more similar to typical content on Twitch, but I sprinkle in discussions about space and astronomy throughout.</li>
 </ul>
-
----
