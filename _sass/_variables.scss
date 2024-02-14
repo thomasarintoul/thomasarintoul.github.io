@@ -47,6 +47,33 @@ $type-size-8                : 0.625em;  // ~10px
    Colors
    ========================================================================== */
 
+/* Custom Colours */
+
+$Cyber-Grape                : #564787;
+$Glossy-Grapes               : #9989B0;
+$Languid-Lavender           : #DBCBD8;
+$Azure-Web-Colour           : #F2FDFF;
+$Powder-Blue                : #9AD4D6;
+$Teal-Blue                  : #557786;
+$Oxford-Blue                : #101935;
+
+/* New Colours */
+
+$Xiketic                    : #180010;
+$Red-Purple                 : #DD0070;
+$Dark-Purple                : #39213E;
+$English-Violet             : #543856;
+$Razzmic-Berry              : #724A72;
+$Glossy-Grape               : #B893AF;
+$Piggy-Pink                 : #fedce6;
+$Persian-Green              : #009988;
+$Illuminating-Emerald       : #219284;
+$Dark-Slate-Grey            : #1D494A;
+$Palatinate-Purple          : #70037A;
+$Celtic-Blue                : #2E6EC2;
+
+/*Presets */
+
 $gray                       : #7a8288;
 $dark-gray                  : mix(#000, $gray, 40%);
 $darker-gray                : mix(#000, $gray, 60%);
@@ -54,17 +81,17 @@ $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
 $body-color                 : #fff;
-$background-color           : #fff;
-$code-background-color      : #fafafa;
+$background-color           :  #fff;
+$code-background-color      :  #fafafa;
 $code-background-color-dark : $light-gray;
 $text-color                 : $dark-gray;
 $border-color               : $lighter-gray;
 
-$primary-color              : #7a8288;
+$primary-color              : $Palatinate-Purple;     /* #70037A;*/
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
-$info-color                 : #52adc8;
+$info-color                 : $Celtic-Blue;    /* #2E6EC2;*/
 
 /* brands */
 $behance-color              : #1769FF;
@@ -87,6 +114,7 @@ $vimeo-color                : #1ab7ea;
 $vine-color                 : #00bf8f;
 $youtube-color              : #bb0000;
 $xing-color                 : #006567;
+
 
 
 /* links */
@@ -125,14 +153,14 @@ $right-sidebar-width        : 0px;
 $right-sidebar-width-wide   : 0px;
 
 $susy: (
-  columns: 12,
-  column-width: 120px,
-  gutters: 1/4,
-  math: fluid,
-  output: float,
-  gutter-position: after,
-  container: $large,
-  global-box-sizing: border-box,
+        columns: 12,
+        column-width: 120px,
+        gutters: 1/4,
+        math: fluid,
+        output: float,
+        gutter-position: after,
+        container: $large,
+        global-box-sizing: border-box,
   // debug: (
   //   image: show,
   //   color: blue,
