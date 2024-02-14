@@ -9,7 +9,6 @@ redirect_from:
 - /SciComm/
 header:
 overlay_image: /ColourBackground.png
-excerpt: "When I'm not working on my PhD you can also find me..."
 
 ---
 
