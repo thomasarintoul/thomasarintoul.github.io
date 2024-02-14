@@ -40,7 +40,7 @@ In 2024, during my PhD, I started providing outreach talks on my research and my
 
 
 <div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/05HOYh6lAzY?si=ccxY28hnp9JVfOiD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <iframe width="560" height="158" src="https://www.youtube.com/embed/05HOYh6lAzY?si=ccxY28hnp9JVfOiD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
     <iframe width="560" height="315" src="https://www.youtube.com/embed/pzRavrNlgQs?si=v7QRroeHxoyR249Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
