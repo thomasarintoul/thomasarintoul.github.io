@@ -2,7 +2,6 @@
 layout: splash
 permalink: /sci-comm/
 title: "Science Communication"
-excerpt: ""
 author_profile: true
 redirect_from:
 - /STEM/
