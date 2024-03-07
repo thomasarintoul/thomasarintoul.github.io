@@ -87,8 +87,9 @@ author:
   employer         :
   pubmed           :
   googlescholar    :
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email-business   : "thomas@thomasrintoul.me"
+  email-academic   : "rintoulta@cardiff.ac.uk"
+  researchgate     : "https://www.researchgate.net/profile/Thomas-Rintoul"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,11 +104,12 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            :
+  orcid            : "https://orcid.org/my-orcid?orcid=0009-0006-9774-0807"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
+  the_storygraph   : "https://app.thestorygraph.com/profile/thomasrintoul"
   tumblr           :
   twitch           : "https://twitch.tv/ThomAstroSci"
   twitter          : "thomas_rintoul"
