@@ -12,29 +12,15 @@ overlay_image: /ColourBackground.png
 
 ---
 
-If you want to get in touch about any speaking opportunities, or any questions about my work you can reach me at [inversionscience@gmail.com](mailto:inversionscience@gmail.com)
+If you want to get in touch about any speaking opportunities, or any questions about my work you can reach me at [thomas@thomasrintoul.me](mailto:thomas@thomasrintoul.me)
 
 
-## Outreach
+# Outreach
 <br />
 &nbsp;I first engaged in supporting outreach while in secondary school, serving as a School STEM Ambassador (not affiliated to the larger movement). In this I supported organisation of outreach events within my school.
 On starting university in 2018, I got involved in outreach within the School of Physics and Astronomy at the University of St Andrews.
 In 2021, during my year as the elected student School President, I was involved in the organisation and promotion of the first St Andrews Interdisciplinary Science Conference (SISCO) which has continued annually since then.
 <br />
-
-![Unstable Fluid Podcast Logo](/images/UFPLogo.png){: width="30%" style="float:right; padding-left:10px" }
-
-&nbsp;Along with friend and Maths Communicator, [Kat Phillips (aka KatDoesMaths)](https://katdoesmaths.me), I created the [Unstable Fluid Podcast](https://linktr.ee/UnstableFluidPodcast). This is a free to listen initiative wherein Kat and I discuss our real life experiences of academia and share our nerdy love of physics and maths - a lot of which focuses on fluid phenomena since we both conduct research in this area.
-
-&nbsp;In 2023, I presented my masters thesis work in a "lightning talk" style at the Science Communication event, "Si Mon Sci Comm Con", hosted by Dr Simon Clark. This was a 3 minute talk describing my work simulating star formation followed by some questions.
-In 2024, during my PhD, I started providing outreach talks on my research and my journey into academia for schools local to Cardiff.
-
-&nbsp;I have a range of talks available covering topics from 'Galaxy Evolution' to how Astronomy impacts us in real life and more. Talks can be catered to a wide variety of audiences including school children, adults, online and live events. Please get in touch using the email above if you would like to discuss a presenting role.
-<br />
-<br />
-<br />
-
-
 
 ## YouTube
 
@@ -55,6 +41,21 @@ Personally, I use my channel for two main purposes - to share and educate people
 What this looks like can be very different from one video to the next. When it comes to specifically sharing science - I tend to use the more traditional "video essay" format which is more scripted, with a greater use of graphics - similar to documentaries on television. Recent astronomy videos have included [reviewing the biggest astronomy news stories of 2023](https://youtu.be/HL3LUGrpZE4), discussing the [benefits of the James Webb Space Telescope](https://youtu.be/lPhX1e1E4UU) in the context of cosmic dust, and an ongoing series on some of humanities most notable space missions starting with the [Voyager Mission](https://youtu.be/05HOYh6lAzY) 
 
 I've found that the most effective way to share my experiences of academia is through the very informal "vlogging" format (a portmanteau of video log). My series of [PhD Vlogs](https://www.youtube.com/playlist?list=PLtAxNXdOs_fbGbAvd7GOSowkDphVTmKNh) sees me bring the audience along with me during my week, sharing my experiences and thoughts with them. It allows academia to be humanised, while also allowing for some informal science communication around my work.
+
+
+## Unstable Fluid Podcast
+
+![Unstable Fluid Podcast Logo](/images/UFPLogo.png){: width="30%" style="float:right; padding-left:10px" }
+
+&nbsp;Along with friend and Maths Communicator, [Kat Phillips (aka KatDoesMaths)](https://katdoesmaths.me), I created the [Unstable Fluid Podcast](https://linktr.ee/UnstableFluidPodcast). This is a free to listen initiative wherein Kat and I discuss our real life experiences of academia and share our nerdy love of physics and maths - a lot of which focuses on fluid phenomena since we both conduct research in this area.
+
+&nbsp;In 2023, I presented my masters thesis work in a "lightning talk" style at the Science Communication event, "Si Mon Sci Comm Con", hosted by Dr Simon Clark. This was a 3 minute talk describing my work simulating star formation followed by some questions.
+In 2024, during my PhD, I started providing outreach talks on my research and my journey into academia for schools local to Cardiff.
+
+&nbsp;I have a range of talks available covering topics from 'Galaxy Evolution' to how Astronomy impacts us in real life and more. Talks can be catered to a wide variety of audiences including school children, adults, online and live events. Please get in touch using the email above if you would like to discuss a presenting role.
+<br />
+<br />
+<br />
 
 
 ## Twitch
