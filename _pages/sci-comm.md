@@ -22,6 +22,14 @@ On starting university in 2018, I got involved in outreach within the School of 
 In 2021, during my year as the elected student School President, I was involved in the organisation and promotion of the first St Andrews Interdisciplinary Science Conference (SISCO) which has continued annually since then.
 <br />
 
+&nbsp;In 2023, I presented my masters thesis work in a "lightning talk" style at the Science Communication event, "Si Mon Sci Comm Con", hosted by Dr Simon Clark. This was a 3 minute talk describing my work simulating star formation followed by some questions.
+In 2024, during my PhD, I started providing outreach talks on my research and my journey into academia for schools local to Cardiff.
+
+&nbsp;I have a range of talks available covering topics from 'Galaxy Evolution' to how Astronomy impacts us in real life and more. Talks can be catered to a wide variety of audiences including school children, adults, online and live events. Please get in touch using the email above if you would like to discuss a presenting role.
+<br />
+<br />
+<br />
+
 ## YouTube
 
 
@@ -49,13 +57,7 @@ I've found that the most effective way to share my experiences of academia is th
 
 &nbsp;Along with friend and Maths Communicator, [Kat Phillips (aka KatDoesMaths)](https://katdoesmaths.me), I created the [Unstable Fluid Podcast](https://linktr.ee/UnstableFluidPodcast). This is a free to listen initiative wherein Kat and I discuss our real life experiences of academia and share our nerdy love of physics and maths - a lot of which focuses on fluid phenomena since we both conduct research in this area.
 
-&nbsp;In 2023, I presented my masters thesis work in a "lightning talk" style at the Science Communication event, "Si Mon Sci Comm Con", hosted by Dr Simon Clark. This was a 3 minute talk describing my work simulating star formation followed by some questions.
-In 2024, during my PhD, I started providing outreach talks on my research and my journey into academia for schools local to Cardiff.
 
-&nbsp;I have a range of talks available covering topics from 'Galaxy Evolution' to how Astronomy impacts us in real life and more. Talks can be catered to a wide variety of audiences including school children, adults, online and live events. Please get in touch using the email above if you would like to discuss a presenting role.
-<br />
-<br />
-<br />
 
 
 ## Twitch
