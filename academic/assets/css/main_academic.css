@@ -2568,6 +2568,18 @@ input, select, textarea {
 			cursor: default;
 		}
 
+		.button.sidebar {
+			background-color: transparent;
+			border-color: rgba(255, 255, 255, 0.6);
+			color: rgba(255, 255, 255, 0.8) !important;
+			padding: 0.2em 0.3em; /* Increased padding for more space around text */
+		}
+
+		.button.sidebar:hover {
+			border-color: rgba(255, 255, 255, 1.0);
+			color: rgba(255, 255, 255, 1.0) !important;
+		}
+
 /* Work Item */
 
 	.work-item {
@@ -2655,7 +2667,7 @@ input, select, textarea {
 
 		#header h2, #header h3, #header h4, #header h5, #header h6 {
 			color: #ffffff;
-			line-height: 0.9;
+			line-height: 1.0;
 		}
 
 		#header h1 {
@@ -2668,7 +2680,7 @@ input, select, textarea {
 		#header p {
 			color: rgba(255, 255, 255, 0.4);
 			margin: 0 0 1.5em 0;
-			line-height: 0.9;
+			line-height: 1.0;
 		}
 
 		#header .image.avatar {
@@ -2677,8 +2689,10 @@ input, select, textarea {
 		}
 
 		#header nav {
-			margin-top: 0em; /* Adjust this value to move the links closer to the top */
+			margin-top: -1em; /* Adjust this value to move the links closer to the top */
 			color: rgba(255, 255, 255, 0);
+			line-height: 1.5;
+			font-size: large;
 		}
 
 		#header nav a:hover {
@@ -2700,7 +2714,7 @@ input, select, textarea {
 		color: rgba(255, 255, 255, 0.4);
 		font-size: 0.8em;
 		list-style: none;
-		margin: -4em 0 0 0;
+		margin: -8em 0 0 0;
 		padding: 0;
 	}
 
