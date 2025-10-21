@@ -1,15 +1,16 @@
-@font-face {
+/* @font-face {
     font-family: 'unageovariable';
     src: url('../../../assets_main/fonts/unageo/unageowght-webfont.woff2') format('woff2'),
          url('../../../assets_main/fonts/unageo/unageowght-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
+} */
 
-}
-body, input, select, textarea {
+/* body, input, select, textarea {
 	font-family: 'Unageo', sans-serif;
-}
-/* @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300italic,600italic,300,600"); */
+} */
+@import url(fontawesome-all.min.css);
+@import url('https://fonts.googleapis.com/css2?family=Urbanist:ital,wght@0,100..900;1,100..900&display=swap');
 
 /*
 	Dimension by HTML5 UP
@@ -152,7 +153,7 @@ input, select, textarea {
 	body, input, select, textarea {
 		color: #ffffff;
 		/* font-family: "Source Sans Pro", sans-serif; */
-		font-family: 'Unageo', sans-serif;
+		font-family: 'Urbanist', Helvetica, sans-serif;
 		font-weight: 300;
 		font-size: 1rem;
 		line-height: 1.65;
@@ -1352,6 +1353,7 @@ input, select, textarea {
 			display: -ms-flex;
 			display: flex;
 			margin-bottom: 0;
+			justify-content: center;
 			list-style: none;
 			padding-left: 0;
 			border: solid 1px #ffffff;
